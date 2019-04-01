@@ -23,6 +23,7 @@ users:
     - username: virtual
     - username: max
     - username: lakesider
+    - username: 8ear
 salt_config:
     - master: saltmaster.in.ffmuc.net
     - retry_dns: 30
